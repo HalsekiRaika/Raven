@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "raven:block/casting_matrix_sideface",
+        "up":       "raven:block/casting_matrix_top",
+        "down":     "raven:block/casting_matrix_bottom",
+        "east":     "raven:block/casting_matrix_sideface",
+        "west":     "raven:block/casting_matrix_sideface",
+        "north":    "raven:block/casting_matrix_sideface",
+        "south":    "raven:block/casting_matrix_sideface"
+    }
+}
